@@ -20,11 +20,17 @@ def main():
     - Process simulation
 
     ### Getting Started
+    1. Upload your manufacturing data or generate sample data
+    2. Monitor real-time process parameters
+    3. Detect anomalies using advanced ML models
+    4. Simulate process variations and analyze outcomes
+    Or
     1. Download sample datasets in CSV, JSON, or Parquet format
     2. Upload your manufacturing data or use the downloaded sample data
     3. Monitor real-time process parameters
     4. Detect anomalies using advanced ML models
     5. Simulate process variations and analyze outcomes
+
 
     Use the sidebar to navigate between different features.
     """)
